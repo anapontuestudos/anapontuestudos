@@ -3,6 +3,11 @@
 Estudo proramação e crio conteúdo para a internet!
 
 
+## 💻 Tecnologias
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 Status Github
 
@@ -10,11 +15,6 @@ Estudo proramação e crio conteúdo para a internet!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anafranciscadev&layout=compact&langs_count=7&theme=radical)
 
-## 💻 Tecnologias
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🌐 Redes sociais
 
