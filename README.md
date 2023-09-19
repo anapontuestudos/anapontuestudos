@@ -3,12 +3,15 @@
 Estudo proramação e crio conteúdo para a internet!
 
 
-## 💻 Tecnologias que domino
+## 💻 Ferramentas e tecnologias
 
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="30" width="30">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/linux_original_logo_icon_146433.png" height="30" width="30">
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="30" width="30">
 
 ## 💻 Estou estudando
 
+<img src="https://seeklogo.com/images/N/netwide-assembler-nasm-logo-EC5B1109AC-seeklogo.com.png" height="30" width="30">
 
 ## 📊 Status Github
 
