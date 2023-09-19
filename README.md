@@ -5,7 +5,7 @@ Estudo proramação e crio conteúdo para a internet!
 
 ## 💻 Tecnologias que domino
 
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="30" width="40">
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="30" width="30">
 
 ## 💻 Estou estudando
 
