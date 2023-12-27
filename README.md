@@ -13,9 +13,9 @@ Eu estudo e crio conteúdo para a internet!
 
 ## 📊 Status Github
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taldedd&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddpontuestudos&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=taldedd&layout=compact&langs_count=7&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ddpontuestudos&layout=compact&langs_count=7&theme=radical)
 
 
 ## 🌐 Redes sociais
