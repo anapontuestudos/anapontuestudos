@@ -13,9 +13,9 @@ Eu estudo e crio conteúdo para a internet!
 
 ## 📊 Status Github
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anapontuestudos&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anapontuestudos&layout=compact&langs_count=7&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ana&layout=compact&langs_count=7&theme=radical)
 
 
 ## 🌐 Redes sociais
