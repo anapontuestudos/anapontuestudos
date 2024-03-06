@@ -1,6 +1,6 @@
 # Opa sou a Ana Francisca!
 
-Eu estudo e crio conteúdo para a internet!
+Atualmente estou estudando ADS na Faculdade Descomplica mas não pretendo parar meus estudos por aqui, desejo cursar engenharia da computação pois tenho muito interesse pela área. Tenho muto interesse pela porgramação em baixo nível com Assembly e C, me interesso também pela engenharia reversa e "escovação de bits".
 
 
 ## Ferramentas e tecnologias
