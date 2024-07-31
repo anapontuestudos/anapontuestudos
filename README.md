@@ -1,6 +1,6 @@
 # Opa sou a Ana Francisca!
 
-Atualmente estou estudando ADS na Faculdade Descomplica mas não pretendo parar meus estudos por aqui, desejo cursar engenharia da computação pois tenho muito interesse pela área.
+Atualmente estou estudando ADS na Faculdade Descomplica mas não pretendo parar meus estudos por aqui.
 
 
 ## Ferramentas e tecnologias
