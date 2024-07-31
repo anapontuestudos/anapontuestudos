@@ -9,7 +9,7 @@ Atualmente estou estudando ADS na Faculdade Descomplica mas não pretendo parar 
 
 ## Estou estudando
 
-<img src="https://imgs.search.brave.com/XVx3WyaXSz_IcTpX6PT7bANhw9PITQVPdyGkbUFS1b8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL0ovamF2YXNj/cmlwdC1qcy1sb2dv/LTI5NDk3MDE3MDIt/c2Vla2xvZ28uY29t/LnBuZw" height="30" width="30">
+<img src="https://imgs.search.brave.com/mJWidXvzPSe5c7Cw9DSn3hRsVv4YniZmz-2b0KBRnHM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jbGlw/YXJ0LWxpYnJhcnku/Y29tL2ltYWdlX2dh/bGxlcnkyL1BIUC1M/b2dvLnBuZw" height="30" width="30">
 
 ## Status Github
 
